@@ -107,12 +107,7 @@ void SectumSempra()
 				st.pop();x++;
 			}
 		}
-		flag=true;
-		while(!st.empty()){
-			if(st.top()!=x)flag=false;
-			st.pop();x++;
-		}
-		cout<<(flag?"yes":"no");
+		cout<<(st.size()==0?"yes":"no");
 		lol
 	}
 
