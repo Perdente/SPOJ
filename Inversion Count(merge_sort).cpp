@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/INVCNT/
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long int
