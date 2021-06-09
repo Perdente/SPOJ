@@ -1,4 +1,5 @@
 //https://www.spoj.com/problems/FARIDA/
+//1D dp
 /*A winner is just a loser who tried one more time*/
 
 #include<bits/stdc++.h>
