@@ -1,4 +1,5 @@
 //https://www.spoj.com/problems/SUMFOUR/
+//meet in the middle
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long int
