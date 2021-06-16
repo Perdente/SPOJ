@@ -1,4 +1,5 @@
 //https://www.spoj.com/problems/ABCDEF/
+//meet in the middle
 /*A winner is just a loser who tried one more time*/
 
 #include<bits/stdc++.h>
